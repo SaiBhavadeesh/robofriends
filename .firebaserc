@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sai-bhavadeesh-yarlagadda"
+  },
+  "targets": {
+    "sai-bhavadeesh-yarlagadda": {
+      "hosting": {
+        "robotfriends": [
+          "robotfriends"
+        ]
+      }
+    }
+  }
+}
